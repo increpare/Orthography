@@ -446,7 +446,7 @@ function drawLigature(){
 var curMax=0;
 var maxAlphabet=alphabet;
 
-var loopCount=100;
+var loopCount=300;
 
 function doProcess(minimize){
 
